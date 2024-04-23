@@ -1,0 +1,10 @@
+#titulo {
+    text-align: center;
+    font-size: 40px;
+    background-color: coral;
+    background: linear-gradient(top, blue, rgb(124,210,212));
+    background: -webkit-linear-gradient(top, blue, rgb(124,210,212));
+    width: 50%;
+    border-radius: 30px;
+    margin: 3em;
+}
