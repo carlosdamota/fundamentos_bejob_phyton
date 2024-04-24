@@ -8,3 +8,12 @@
     border-radius: 30px;
     margin: 3em;
 }
+.imagen{
+    width: 200px;
+    height: 130px;
+    padding: 4px;
+    border: 2px solid black;
+    float: left;
+    margin: 75px 30px;
+    border-radius: 10px;
+}    
